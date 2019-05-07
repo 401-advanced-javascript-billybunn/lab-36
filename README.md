@@ -6,7 +6,7 @@
 ### Author: Billy Bunn
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-javascript-billybunn/lab-36/pull/1)
 
 ### Part 1 - Counter
 [CodeSandbox](https://codesandbox.io/s/7wm5qnl770)
